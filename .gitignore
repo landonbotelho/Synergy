@@ -1,0 +1,31 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Visual Studio / IDE files
+.vs/
+.vscode/
+.idea/
+
+# Build folders
+[Bb]uild/
+[Bb]uilds/
+BUILD/
+
+# Generated solution/project files
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Crash / memory dumps
+sysinfo.txt
+*.stackdump
