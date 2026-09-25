@@ -1,6 +1,11 @@
 # Synergy
 
+## Play the Game
+**Download the latest playable build:** [Synergy Releases](../../releases)
+Extract the ZIP, choose your operating system, and run the included installer or executable.
 Synergy is a Unity-based roguelike developed as my M.S. Computer Science capstone project.
+
+
 
 ## Overview
 
