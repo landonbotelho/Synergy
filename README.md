@@ -4,16 +4,16 @@ Synergy is a Unity-based roguelike developed as my M.S. Computer Science capston
 
 ## Overview
 
-The project explores procedural level design, pathfinding, and algorithm-driven gameplay systems.
+The project focuses on procedural dungeon generation, pathfinding, and algorithm-driven gameplay systems. It combines custom level-generation logic with AI, combat, progression, and Unity-based gameplay systems.
 
 ## Features
 
-- Procedural room placement using a Genetic Algorithm
+- Procedural dungeon generation using Binary Space Partitioning
+- Genetic Algorithm used for procedural object/room placement
 - Dijkstra's Algorithm for pathfinding
 - Enemy AI and combat systems
-- Procedurally generated levels
 - Player progression and item systems
-- Unity-based UI and gameplay systems
+- Custom Unity UI and gameplay systems
 
 ## Technologies
 
@@ -21,16 +21,31 @@ The project explores procedural level design, pathfinding, and algorithm-driven 
 - Unity
 - Object-Oriented Programming
 - Data Structures and Algorithms
+- Binary Space Partitioning
 - Genetic Algorithms
 - Dijkstra's Algorithm
 
 ## Screenshots
+### Binary Space Partitioning Tree
+![Binary Space Partitioning Tree](Screenshots/bspTree.png)
 
-[images here]
+### Dijkstra's Pathfinding
+![Dijkstra's Pathfinding](Screenshots/dijkstras.png)
 
-## How to Run
+### Procedural Dungeon Generation
+![Procedural Dungeon Generation](Screenshots/dungeonGeneration.png)
 
-1. Clone the repository
-2. Open the project in Unity
-3. Open the main scene
-4. Press Play
+### Enemy Chase Logic
+![Enemy Chase Logic](Screenshots/enemyChaseCode.png)
+
+### Mini Map
+![Mini Map](Screenshots/miniMap.png)
+
+### Random Enemy Spawning
+![Random Enemy Spawning](Screenshots/randomEnemySpawns.png)
+
+### Rigged Player Model
+![Rigged Player Model](Screenshots/riggedPlayerModel.png)
+
+### Room Determination Logic
+![Room Determination Logic](Screenshots/roomDetermination.png)
