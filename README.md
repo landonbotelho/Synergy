@@ -24,3 +24,28 @@ The project focuses on procedural dungeon generation, pathfinding, and algorithm
 - Binary Space Partitioning
 - Genetic Algorithms
 - Dijkstra's Algorithm
+
+## Screenshots
+### Binary Space Partitioning Tree
+![Binary Space Partitioning Tree](Screenshots/bspTree.png)
+
+### Dijkstra's Pathfinding
+![Dijkstra's Pathfinding](Screenshots/dijkstras.png)
+
+### Procedural Dungeon Generation
+![Procedural Dungeon Generation](Screenshots/dungeonGeneration.png)
+
+### Enemy Chase Logic
+![Enemy Chase Logic](Screenshots/enemyChaseCode.png)
+
+### Mini Map
+![Mini Map](Screenshots/miniMap.png)
+
+### Random Enemy Spawning
+![Random Enemy Spawning](Screenshots/randomEnemySpawns.png)
+
+### Rigged Player Model
+![Rigged Player Model](Screenshots/riggedPlayerModel.png)
+
+### Room Determination Logic
+![Room Determination Logic](Screenshots/roomDetermination.png)
